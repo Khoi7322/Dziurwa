@@ -1,0 +1,3 @@
+- ©️ This project belongs to @Khoi7322 (Myself)
+- 🌴 I'm looking for dedicated contributors, I anyone is interested in my projects, DM Discord me: .leo.nice
+- 📦 Coded in Discord.js v14
